@@ -1,0 +1,7 @@
+.venv/
+voices/
+__pycache__/
+*.pyc
+*.wav
+piper_tts-*.whl
+config.json

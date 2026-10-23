@@ -1,0 +1,24 @@
+{
+  "whisper_exe": "C:\\path\\to\\whisper.cpp\\build\\bin\\whisper-cli.exe",
+  "whisper_model": "C:\\path\\to\\whisper.cpp\\models\\ggml-large-v3-turbo.bin",
+  "ollama_url": "http://127.0.0.1:11434/api/chat",
+  "ollama_model": "llama3.2:3b",
+  "piper_voice": "en_US-lessac-medium",
+  "piper_data_dir": "C:\\path\\to\\local-voice-assistant\\voices",
+  "push_to_talk_key": "f8",
+  "quit_key": "esc",
+  "tts_enabled": true,
+  "max_search_results": 15,
+  "apps": {
+    "notepad": ["C:\\Windows\\System32\\notepad.exe"],
+    "calculator": ["C:\\Windows\\System32\\calc.exe"],
+    "explorer": ["C:\\Windows\\explorer.exe"],
+    "visual studio code": ["C:\\path\\to\\Microsoft VS Code\\Code.exe"]
+  },
+  "search_locations": {
+    "desktop": "C:\\Users\\YOUR_USERNAME\\Desktop",
+    "documents": "C:\\Users\\YOUR_USERNAME\\Documents",
+    "downloads": "C:\\Users\\YOUR_USERNAME\\Downloads",
+    "projects": "C:\\path\\to\\projects"
+  }
+}
