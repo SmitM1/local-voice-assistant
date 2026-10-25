@@ -1,0 +1,2 @@
+FROM qwen3-vl:2b-instruct
+PARAMETER num_ctx 4096

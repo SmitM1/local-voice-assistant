@@ -5,3 +5,4 @@ __pycache__/
 *.wav
 piper_tts-*.whl
 config.json
+state/
